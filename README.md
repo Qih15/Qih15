@@ -10,7 +10,7 @@
 <img width="50%" align="right" alt="Qisthi Iskandar Haqki github stats" src="https://github-readme-stats.vercel.app/api?username=qih15&show_icons=true&hide_border=true&hide_border=true" />
 </p>
 
-<h2>Here is my portofolio as follows:</h2>
+**Here is my portofolio as follows:**
 
 - I'm from Bogor West Java Indonesia
 - A ROM and Recovery maintainer for Sirius 
